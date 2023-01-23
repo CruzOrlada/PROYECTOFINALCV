@@ -9,7 +9,7 @@ document.getElementById("educación3").addEventListener("click", function(){
 
 document.getElementById("explab3").addEventListener("click", function(){
     console.log("capturamos el evento click y mostramos la información sobre EXPERIENCIA LABORAL")
-    document.getElementById("explab").innerHTML = "Asistente de Bill gates en la empresa Bill gates. Seguimiento de agendas y logística de la empresa. Procurarando por el buen estado y control de todo tipo de documentos y archivos.";
+    document.getElementById("explab").innerHTML = "Asistente de Bill gates en la empresa Bill gates. Seguimiento de agendas y logística de la empresa. Procurando por el buen estado y control de todo tipo de documentos y archivos.";
 });
 document.getElementById("explab3").addEventListener("click", function(){
     document.getElementById("explab2").innerHTML = " Asistente de Steve Jobs en la empresa Steve Jobs. Recepción de clientes y llamadas. Organizador de reuniones para la empresa.";
